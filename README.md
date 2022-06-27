@@ -58,10 +58,13 @@ CH9141模块
 	红外线强度(IR)：9
 	接近距离(PS)：0
 	环境光强度(ALS)：37
+
 电脑端通过蓝牙实时获取的信息：
+
 ![image](https://user-images.githubusercontent.com/58928827/175905816-fc06b087-f8d5-4979-bfd2-3af5c1ac23d1.png)
 
 手机端通过蓝牙实时获取的信息
+
 ![image](https://user-images.githubusercontent.com/58928827/175905870-1faf7aa1-2a13-40d7-b2f5-fe928d0e1706.png)
 ![image](https://user-images.githubusercontent.com/58928827/175905896-5069f33a-d403-470b-80b5-d86dd4fda4a6.png)
 ![image](https://user-images.githubusercontent.com/58928827/175905924-3139ec4c-017d-408f-b324-aa35692e777e.png)
