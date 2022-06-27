@@ -1,6 +1,7 @@
 # 基于RISC-MCU的蔬菜大棚环境检测
 通过对CH32V307的开发文档和技术手册了解，根据开发板本身的硬件进行扩展，利用编程，让其硬件各司其职，获取蔬菜大棚的环境数据信息。
-1.1	整体介绍
+1.1整体介绍
+
 ![image](https://user-images.githubusercontent.com/58928827/175905081-14973f8b-5220-4855-8a5b-e13d664b9ac0.png)
 ![image](https://user-images.githubusercontent.com/58928827/175905137-e08a9fcf-920f-42a3-b827-7531e521771c.png)
 
