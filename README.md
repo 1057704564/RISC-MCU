@@ -46,8 +46,10 @@ CH9141模块
 ![image](https://user-images.githubusercontent.com/58928827/175905601-7c21ec21-ef9d-4d4c-a468-a5a398c44829.png)
 
 2.1完成情况及性能参数
-	实时测试
-	根据所选环境进行探测
+	
+实时测试
+
+根据所选环境进行探测
 ![image](https://user-images.githubusercontent.com/58928827/175905705-186cce15-97bb-446c-9be6-09e50eaf2cdf.png)
 
 通过对当前环境的检测，得到的信息有：
